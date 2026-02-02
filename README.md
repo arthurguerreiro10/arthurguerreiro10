@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Arthur
 
-<!--
-**arthurguerreiro10/arthurguerreiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Programming Student  
+🐍 Currently studying Python  
+📍 Rio de Janeiro, Brazil  
+🌎 English level: Beginner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+---
+
+### 🎯 Objetivo.
+Build a solid foundation in programming and expand my knowledge to other languages and technologies in the future.
