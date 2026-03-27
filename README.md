@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Arthur
 
-🎓 Programming Student  
-🐍 Currently studying Python  
+🎓 Programming Student    
 📍 Rio de Janeiro, Brazil  
 🌎 English level: Beginner  
 
